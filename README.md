@@ -12,6 +12,6 @@ Input:
 Output
    simple interest = p*t*r
 ```
+This project that calculates simple interest.
 This project calculates simple interest.
 
-_© 2022 XYZ, Inc._
